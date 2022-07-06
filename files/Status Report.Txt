@@ -1,0 +1,11 @@
+Output: PADS ASCII Netlist
+Type  : PADSNetlist
+From  : Project [Free Documents]
+   Generated File[自动化综合训练控制电路图2.NET]
+   Generated File[自动化综合训练控制电路图2.PRT]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 23:37:01 On 2021/12/27
